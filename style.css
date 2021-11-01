@@ -1,0 +1,24 @@
+body{
+  color: gold;
+  background-color: #66ccff;
+}
+
+h1{
+  font-size: 50px;
+  font-family: monospace, arial, times;
+  text-shadow: 0 10px 0 white;
+}
+
+#first-p{
+  color: purple;
+}
+
+#second-p{
+  color: green;
+  font-weight: bold;
+  
+}
+
+.red-font{
+  color: red; 
+}
